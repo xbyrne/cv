@@ -1,0 +1,1721 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:officeooo="http://openoffice.org/2009/office" xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rpt="http://openoffice.org/2005/report" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:xforms="http://www.w3.org/2002/xforms" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><dc:date>2024-10-22T22:10:23.994082483</dc:date><meta:editing-duration>PT1H48M10S</meta:editing-duration><meta:editing-cycles>15</meta:editing-cycles><meta:generator>LibreOffice/7.3.7.2$Linux_X86_64 LibreOffice_project/30$Build-2</meta:generator><meta:print-date>2024-07-25T10:34:58.897196474</meta:print-date><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="2" meta:paragraph-count="74" meta:word-count="623" meta:character-count="4393" meta:non-whitespace-character-count="3757"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">42674</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">37308</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">18200</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">23451</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">39150</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">42674</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">37306</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">60872</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">90</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">oAH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAwQAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsMCwwCmNvbG9yZGVwdGg9MjQKcHNsZXZlbD0wCnBkZmRldmljZT0xCmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3275789</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">470424</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Bahnschrift SemiBold" svg:font-family="&apos;Bahnschrift SemiBold&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Mono" svg:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;"/>
+  <style:font-face style:name="Lohit Devanagari1" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Mono PS" svg:font-family="&apos;Nimbus Mono PS&apos;" style:font-pitch="fixed"/>
+  <style:font-face style:name="Nimbus Sans" svg:font-family="&apos;Nimbus Sans&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Nimbus Sans1" svg:font-family="&apos;Nimbus Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Nimbus Sans2" svg:font-family="&apos;Nimbus Sans&apos;" style:font-adornments="Regular" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Nimbus Sans3" svg:font-family="&apos;Nimbus Sans&apos;" style:font-adornments="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <draw:gradient draw:name="gradient" draw:style="linear" draw:start-color="#000000" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0deg" draw:border="0%"/>
+  <draw:hatch draw:name="hatch" draw:style="single" draw:color="#3465a4" draw:distance="0.02cm" draw:rotation="0"/>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="1.251cm" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="GB" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.101cm" style:contextual-spacing="false"/>
+   <style:text-properties style:font-name="Nimbus Sans3" fo:font-family="&apos;Nimbus Sans&apos;" style:font-style-name="Regular" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.199cm" style:contextual-spacing="false" fo:padding="0cm" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="3pt solid #8e03a3" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties style:font-name="Nimbus Sans3" fo:font-family="&apos;Nimbus Sans&apos;" style:font-style-name="Regular" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="24pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
+  <style:style style:name="Heading_20_2_20_Char" style:display-name="Heading 2 Char" style:family="text" style:parent-style-name="Default_20_Paragraph_20_Font">
+   <style:text-properties style:font-name="Bahnschrift SemiBold" fo:font-family="&apos;Bahnschrift SemiBold&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="13pt" style:font-name-asian="Noto Serif CJK SC" style:font-family-asian="&apos;Noto Serif CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="13pt" style:font-name-complex="Lohit Devanagari1" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="13pt"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" loext:num-list-format="%2%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" loext:num-list-format="%3%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" loext:num-list-format="%4%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" loext:num-list-format="%5%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" loext:num-list-format="%6%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" loext:num-list-format="%7%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" loext:num-list-format="%8%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" loext:num-list-format="%9%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" loext:num-list-format="%10%" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="14pt" fo:font-weight="normal" officeooo:rsid="000827bb" officeooo:paragraph-rsid="0008a711" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="14pt" fo:font-weight="normal" officeooo:paragraph-rsid="000c3f80" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="14pt" fo:font-weight="normal" officeooo:rsid="0008a711" officeooo:paragraph-rsid="000c3f80" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="2pt" fo:font-weight="normal" officeooo:rsid="000827bb" officeooo:paragraph-rsid="0008a711" style:font-size-asian="1.75pt" style:font-weight-asian="normal" style:font-size-complex="2pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.459cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="2pt" fo:font-weight="bold" officeooo:rsid="000c3f80" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.6cm" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="48pt" fo:font-weight="bold" officeooo:rsid="000827bb" officeooo:paragraph-rsid="000827bb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.459cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="000c3f80" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="001005c0" officeooo:paragraph-rsid="0020ab02" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="0016e044" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0012b2a1"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="00164634"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" officeooo:paragraph-rsid="001ac5d0" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" officeooo:paragraph-rsid="000efd1f" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="2pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.459cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" officeooo:paragraph-rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="4pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00142bb6" officeooo:paragraph-rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Sans" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002306e6" officeooo:paragraph-rsid="002306e6" style:font-name-asian="Nimbus Sans" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00126df9"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="4pt" fo:font-weight="bold" officeooo:paragraph-rsid="00142bb6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="4pt" fo:font-weight="bold" officeooo:rsid="00189ba4" officeooo:paragraph-rsid="00126df9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="2pt" officeooo:paragraph-rsid="00126df9"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="2pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="00126df9" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="0014184f" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="00142bb6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="0021562c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="002306e6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-weight="bold" officeooo:paragraph-rsid="00142bb6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001ac5d0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001b8372" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001ee787" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="001ee787" officeooo:paragraph-rsid="001ee787" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="001ac5d0" officeooo:paragraph-rsid="001ac5d0" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="2pt" fo:font-weight="bold" officeooo:rsid="001ee787" officeooo:paragraph-rsid="001ee787" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="2pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001ee787" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="2pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001b8372" officeooo:paragraph-rsid="001ee787" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001ac5d0" officeooo:paragraph-rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans" fo:font-size="2pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00201a87" officeooo:paragraph-rsid="001ee787" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="00126df9" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="001b8372" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" officeooo:rsid="00274fc9" officeooo:paragraph-rsid="002905e6" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" officeooo:rsid="002ab85c" officeooo:paragraph-rsid="002ab85c" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Horizontal_20_Line">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties fo:font-size="18pt" fo:font-weight="bold" officeooo:paragraph-rsid="002ab85c" style:font-size-asian="6pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="002575de" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="001ee787" officeooo:paragraph-rsid="002ab85c" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="001ee787" officeooo:paragraph-rsid="002fc671" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:paragraph-rsid="002905e6" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="001b8372" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="002cc747" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="normal" officeooo:rsid="002575de" officeooo:paragraph-rsid="002575de" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="13pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="normal" officeooo:rsid="002575de" officeooo:paragraph-rsid="002dbcc9" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="13pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="normal" officeooo:rsid="002575de" officeooo:paragraph-rsid="002905e6" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="13pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="13pt" fo:font-weight="normal" officeooo:rsid="002575de" officeooo:paragraph-rsid="00274fc9" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="13pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="002ab85c" officeooo:paragraph-rsid="002ab85c" style:font-size-asian="13pt" style:font-weight-asian="normal" style:font-size-complex="13pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.459cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties officeooo:paragraph-rsid="002575de"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-weight="bold" officeooo:paragraph-rsid="00142bb6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-weight="bold" officeooo:paragraph-rsid="00274fc9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002dbcc9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002905e6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002fc671" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001ac5d0" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="001b8372" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002dbcc9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="002cc747" officeooo:paragraph-rsid="002cc747" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002c7df6" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002c7df6" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002fc671" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="2pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002defe0" style:font-name-asian="Nimbus Sans" style:font-size-asian="1.75pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="2pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001ac5d0" officeooo:paragraph-rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="13pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002dbcc9" officeooo:paragraph-rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002defe0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="001ee787" officeooo:paragraph-rsid="002dbcc9" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="100%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002cc747" officeooo:paragraph-rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-size-asian="10.5pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="12pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="6pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002c7df6" style:font-size-asian="5.25pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" fo:font-size="6pt" fo:font-weight="bold" officeooo:rsid="001a2ab8" officeooo:paragraph-rsid="002dbcc9" style:font-size-asian="5.25pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="0021562c" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="00142bb6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="002306e6" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="0014184f" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="12pt" officeooo:paragraph-rsid="002dbcc9"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties fo:font-size="2pt" officeooo:paragraph-rsid="002cc747" style:font-size-asian="1.75pt" style:font-size-complex="2pt"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="2pt" fo:font-weight="bold" officeooo:rsid="0010a75b" officeooo:paragraph-rsid="001b8372" style:font-size-asian="1.75pt" style:font-weight-asian="bold" style:font-size-complex="2pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="2pt" fo:font-weight="normal" officeooo:rsid="002575de" officeooo:paragraph-rsid="00274fc9" style:font-size-asian="1.75pt" style:font-weight-asian="normal" style:font-size-complex="2pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="002defe0" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="bold" officeooo:rsid="001005c0" officeooo:paragraph-rsid="002defe0" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties fo:font-size="6pt" fo:font-weight="bold" officeooo:paragraph-rsid="00274fc9" style:font-size-asian="5.25pt" style:font-weight-asian="bold" style:font-size-complex="6pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="17.96cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="12pt" fo:font-weight="normal" officeooo:rsid="001005c0" officeooo:paragraph-rsid="0020ab02" style:font-name-asian="Noto Serif CJK SC" style:font-weight-asian="normal" style:font-name-complex="Lohit Devanagari1" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:line-height="115%" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.459cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="13pt" fo:font-weight="bold" officeooo:rsid="000c3f80" officeooo:paragraph-rsid="001005c0" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="13pt" style:font-weight-asian="bold" style:font-name-complex="Lohit Devanagari1" style:font-size-complex="13pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="14pt" fo:font-weight="normal" officeooo:paragraph-rsid="002fc671" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="14pt" fo:font-weight="normal" officeooo:rsid="000827bb" officeooo:paragraph-rsid="0008a711" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="-0.801cm" fo:text-indent="0cm" style:auto-text-indent="false" style:page-number="auto" fo:break-before="column" fo:background-color="transparent"/>
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-size="2pt" fo:font-weight="normal" officeooo:rsid="000827bb" officeooo:paragraph-rsid="0008a711" style:font-size-asian="1.75pt" style:font-weight-asian="normal" style:font-size-complex="2pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="0012b2a1"/>
+  </style:style>
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill-gradient-name="gradient" draw:fill-hatch-name="hatch"/>
+   <style:paragraph-properties fo:line-height="115%">
+    <style:tab-stops>
+     <style:tab-stop style:position="18.468cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+   <style:text-properties officeooo:paragraph-rsid="00164634"/>
+  </style:style>
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties officeooo:paragraph-rsid="00126df9"/>
+  </style:style>
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:line-height="115%"/>
+   <style:text-properties officeooo:paragraph-rsid="002cc747"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties fo:font-size="10pt"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties officeooo:rsid="000827bb"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:font-size="2pt"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:text-line-through-style="solid" style:text-line-through-type="single" fo:font-size="10pt" fo:font-weight="bold" officeooo:rsid="000827bb" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Sans" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-size-complex="16pt" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties fo:color="#8e03a3" loext:opacity="100%" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="000c3f80"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties fo:font-size="8pt"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties fo:font-size="8pt" officeooo:rsid="000827bb"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties fo:font-size="6pt"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-size="4pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="000d5b8a"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" style:font-name-asian="Nimbus Sans" style:font-name-complex="Nimbus Sans"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="002dbcc9" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="002defe0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="00301d63" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001b8372" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001bb38e" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001ee787" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00201a87" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0020ab02" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0021562c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00238cde" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002c7df6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00301d63" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001ee787" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-size-asian="13pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="13pt" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001ee787" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002c7df6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001b8372" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00201a87" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0020ab02" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" officeooo:rsid="002dbcc9"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" officeooo:rsid="00301d63"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans" officeooo:rsid="002defe0"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="00238cde" style:font-name-asian="Nimbus Sans" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-weight="normal" officeooo:rsid="002defe0" style:font-name-asian="Nimbus Sans" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0019fc52" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0014184f" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00149c00" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T68" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00164634" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T69" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0016e044" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T70" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001764f8" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T71" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T72" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0021562c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T73" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002306e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T74" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00238cde" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T75" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0024cfc5" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T76" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T77" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T78" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T79" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T80" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T81" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T82" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T83" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T84" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="0012b2a1" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T85" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T86" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="00149c00" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T87" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="0024cfc5" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T88" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T89" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T90" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T91" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T92" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="0014184f" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T93" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002306e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T94" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="0021562c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T95" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T96" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T97" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="001005c0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T98" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T99" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T100" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0012b2a1" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T101" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T102" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T103" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002dbcc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T104" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T105" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0012b2a1" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T106" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00164634" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T107" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0014184f" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T108" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T109" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001bb38e" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T110" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0020ab02" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T111" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="0021562c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T112" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00238cde" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T113" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T114" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T115" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T116" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T117" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T118" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T119" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="0014184f" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T120" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T121" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="002cc747" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T122" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T123" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00274fc9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T124" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="0020ab02" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T125" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T126" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="00164634" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T127" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00126df9" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T128" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="00142bb6" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T129" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="0014184f" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T130" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" fo:font-size="12pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T131" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="Nimbus Sans" style:font-name-asian="Nimbus Sans" style:font-name-complex="Nimbus Sans"/>
+  </style:style>
+  <style:style style:name="T132" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-position="super 58%" style:font-name="Nimbus Sans" fo:font-weight="normal" style:font-name-asian="Nimbus Sans" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T133" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Sans" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002575de" style:font-name-asian="Nimbus Sans" style:font-size-asian="16pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="16pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T134" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Sans" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002575de" style:font-name-asian="Nimbus Sans" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T135" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Sans" fo:font-size="16pt" fo:font-style="italic" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-size-asian="14pt" style:font-style-asian="italic" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-size-complex="14pt" style:font-style-complex="italic" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T136" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="FreeMono" fo:font-size="12pt" fo:font-style="normal" fo:font-weight="bold" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T137" style:family="text">
+   <style:text-properties fo:color="#000000" loext:opacity="100%" style:font-name="FreeMono" fo:font-size="12pt" fo:font-style="normal" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T138" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" fo:font-style="normal" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T139" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="001b8372" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T140" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T141" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T142" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" officeooo:rsid="0014184f" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T143" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans3" officeooo:rsid="0014184f"/>
+  </style:style>
+  <style:style style:name="T144" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans2" officeooo:rsid="0014184f" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T145" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans2" officeooo:rsid="002306e6" style:font-size-asian="13pt" style:font-size-complex="13pt"/>
+  </style:style>
+  <style:style style:name="T146" style:family="text">
+   <style:text-properties officeooo:rsid="001ac5d0"/>
+  </style:style>
+  <style:style style:name="T147" style:family="text">
+   <style:text-properties style:text-position="super 58%" style:font-name="Nimbus Sans" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T148" style:family="text">
+   <style:text-properties style:text-position="super 58%" style:font-name="Nimbus Sans" fo:font-style="normal" officeooo:rsid="001ac5d0" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T149" style:family="text">
+   <style:text-properties officeooo:rsid="001b8372"/>
+  </style:style>
+  <style:style style:name="T150" style:family="text">
+   <style:text-properties officeooo:rsid="001ee787"/>
+  </style:style>
+  <style:style style:name="T151" style:family="text">
+   <style:text-properties officeooo:rsid="00238cde"/>
+  </style:style>
+  <style:style style:name="T152" style:family="text">
+   <style:text-properties officeooo:rsid="002575de"/>
+  </style:style>
+  <style:style style:name="T153" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="001ac5d0" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T154" style:family="text">
+   <style:text-properties fo:font-weight="normal" officeooo:rsid="002dbcc9" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T155" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="0010a75b" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T156" style:family="text">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="002dbcc9" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T157" style:family="text">
+   <style:text-properties officeooo:rsid="00274fc9"/>
+  </style:style>
+  <style:style style:name="T158" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="002ab85c" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T159" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="001b8372" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T160" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="002905e6" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T161" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Nimbus Sans3" fo:font-style="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T162" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T163" style:family="text">
+   <style:text-properties style:font-name="Nimbus Mono PS" fo:font-style="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T164" style:family="text">
+   <style:text-properties style:font-name="FreeMono" fo:font-style="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T165" style:family="text">
+   <style:text-properties officeooo:rsid="002dbcc9"/>
+  </style:style>
+  <style:style style:name="T166" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans2"/>
+  </style:style>
+  <style:style style:name="T167" style:family="text">
+   <style:text-properties officeooo:rsid="002defe0"/>
+  </style:style>
+  <style:style style:name="T168" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-style="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal"/>
+  </style:style>
+  <style:style style:name="T169" style:family="text">
+   <style:text-properties style:font-name="Nimbus Sans1" fo:font-style="normal" fo:font-weight="normal" officeooo:rsid="002fc671" style:font-name-asian="Nimbus Sans" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Nimbus Sans" style:font-style-complex="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties text:dont-balance-text-columns="false" fo:margin-left="-0.598cm" fo:margin-right="-0.87cm" style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm">
+     <style:column-sep style:width="0.035cm" style:color="#000000" style:height="100%" style:style="solid"/>
+    </style:columns>
+   </style:section-properties>
+  </style:style>
+  <style:style style:name="Sect2" style:family="section">
+   <style:section-properties text:dont-balance-text-columns="false" style:editable="false">
+    <style:columns fo:column-count="2">
+     <style:column-sep style:width="0.106cm" style:color="#8e03a3" style:height="100%" style:style="solid"/>
+     <style:column style:rel-width="6164*" fo:start-indent="0cm" fo:end-indent="0.639cm"/>
+     <style:column style:rel-width="3474*" fo:start-indent="0.639cm" fo:end-indent="0cm"/>
+    </style:columns>
+   </style:section-properties>
+  </style:style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="1.27cm" fo:margin-bottom="0.94cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.706cm" style:layout-grid-ruby-height="0.353cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0cm" loext:margin-gutter="0cm">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:style style:name="dp1" style:family="drawing-page">
+   <style:drawing-page-properties draw:background-size="full"/>
+  </style:style>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:section text:style-name="Sect1" text:name="Section1">
+    <text:section text:style-name="Sect2" text:name="Section2">
+     <text:p text:style-name="P6">Xander Byrne</text:p>
+     <text:p text:style-name="P59"><text:span text:style-name="T133">Calculated solut</text:span><text:span text:style-name="T134">ions to </text:span><text:span text:style-name="T135">modern</text:span><text:span text:style-name="T134"> </text:span><text:span text:style-name="T133">challenges </text:span><text:span text:style-name="T13">≫</text:span></text:p>
+     <text:p text:style-name="P4"/>
+     <text:p text:style-name="P1">Astrophysics PhD Student</text:p>
+     <text:p text:style-name="P96"><text:span text:style-name="T2">University of Cambridge</text:span></text:p>
+     <text:p text:style-name="P96"><text:span text:style-name="T17"><text:line-break/></text:span><text:span text:style-name="T15">xbyrne.github.io</text:span></text:p>
+     <text:p text:style-name="P3">ajnb3@cam.ac.uk</text:p>
+    </text:section>
+    <text:p text:style-name="P15">Education</text:p>
+    <text:p text:style-name="P5"/>
+    <text:p text:style-name="P95">University of Cambridg<text:span text:style-name="T20">e<text:tab/>Cambridge, 2019-23</text:span></text:p>
+    <text:p text:style-name="P92"><text:span text:style-name="T21">≫ </text:span><text:span text:style-name="T58">MSci Natural Sciences, </text:span><text:span text:style-name="T60">1st</text:span><text:span text:style-name="T58"> class with distinction</text:span></text:p>
+    <text:p text:style-name="P91"><text:span text:style-name="T22">≫ </text:span><text:span text:style-name="T58">Ranked </text:span><text:span text:style-name="T131">top of the class </text:span><text:span text:style-name="T58">in Astrophysics examinations</text:span></text:p>
+    <text:p text:style-name="P91"><text:span text:style-name="T22">≫ </text:span><text:span text:style-name="T58">Awarded </text:span><text:span text:style-name="T59">University of Cambridge’s prestigious</text:span><text:span text:style-name="T58"> </text:span><text:span text:style-name="T62">Holgate-</text:span><text:span text:style-name="T61">Pollard </text:span><text:span text:style-name="T62">Memorial </text:span><text:span text:style-name="T61">Prize</text:span></text:p>
+    <text:p text:style-name="P10"><text:span text:style-name="T26">≫ </text:span><text:span text:style-name="T69">Awarded </text:span><text:span text:style-name="T61">Wilson Prize</text:span><text:span text:style-name="T64"> and </text:span><text:span text:style-name="T61">Skerne (1745) Scholarship</text:span><text:span text:style-name="T64"> from </text:span><text:span text:style-name="T69">St Catharine’s College</text:span></text:p>
+    <text:p text:style-name="P16"/>
+    <text:p text:style-name="P58">King Edward VI Camp Hill School<text:tab/>Birmingham 2012-19</text:p>
+    <text:p text:style-name="P94"><text:span text:style-name="T5">≫ </text:span><text:span text:style-name="T81">A-levels </text:span><text:span text:style-name="T96">(all A*)</text:span><text:span text:style-name="T81">: Maths, Further Maths, Physics, Chemistry</text:span></text:p>
+    <text:p text:style-name="P8"><text:span text:style-name="T5">≫ </text:span><text:span text:style-name="T81">Twelve GCSEs, </text:span><text:span text:style-name="T96">all</text:span><text:span text:style-name="T81"> </text:span><text:span text:style-name="T96">A* / 9</text:span></text:p>
+    <text:p text:style-name="P18"/>
+    <text:p text:style-name="P45">Experience</text:p>
+    <text:p text:style-name="P47"><text:span text:style-name="T152">PhD, Institute of Astronomy, University of Cambridge<text:tab/></text:span>Cambridge, 202<text:span text:style-name="T152">3-</text:span></text:p>
+    <text:p text:style-name="P53">Investigating the composition of ex<text:span text:style-name="T157">o</text:span>planets <text:span text:style-name="T157">and white dwarfs</text:span>, using data-driven techniques</text:p>
+    <text:p text:style-name="P53"><text:span text:style-name="T11">≫ </text:span><text:span text:style-name="T116">Classification of white dwarf spectra using </text:span><text:span text:style-name="T122">dimensionality reduction</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T117">(Byrne et al., in prep.)</text:span></text:p>
+    <text:p text:style-name="P54"><text:span text:style-name="T11">≫ </text:span><text:span text:style-name="T117">Analysing </text:span><text:span text:style-name="T123">time-series data</text:span><text:span text:style-name="T117"> for anomalous variability in brightness</text:span></text:p>
+    <text:p text:style-name="P55"><text:span text:style-name="T11">≫ </text:span><text:span text:style-name="T118">Submitted multiple proposals for telescope time to ESO and Keck</text:span></text:p>
+    <text:p text:style-name="P55"><text:span text:style-name="T11">≫ </text:span><text:span text:style-name="T116">Extracting elemental abundances of rocky bodies accreted onto white dwarfs</text:span></text:p>
+    <text:p text:style-name="P90"><text:span text:style-name="T88"/></text:p>
+    <text:p text:style-name="P56"><text:span text:style-name="T156">Centre for Doctoral Training</text:span><text:span text:style-name="T155"> in Data Intensive Science<text:tab/>Cambridge, 2023-24</text:span></text:p>
+    <text:p text:style-name="P99"><text:span text:style-name="T10">≫ </text:span><text:span text:style-name="T124">Extensive t</text:span><text:span text:style-name="T125">raining</text:span><text:span text:style-name="T104"> in </text:span><text:span text:style-name="T136">pytorch</text:span><text:span text:style-name="T127"> </text:span><text:span text:style-name="T105">and </text:span><text:span text:style-name="T104">modern</text:span><text:span text:style-name="T82"> machine learning </text:span><text:span text:style-name="T89">and statistical</text:span><text:span text:style-name="T82"> </text:span><text:span text:style-name="T83">techniques</text:span></text:p>
+    <text:p text:style-name="P100"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T85">Courses</text:span><text:span text:style-name="T82"> in </text:span><text:span text:style-name="T97">data handling &amp; pre-processing, </text:span><text:span text:style-name="T98">(un)supervised learning, </text:span><text:span text:style-name="T97">Bayesian </text:span><text:span text:style-name="T99">inference</text:span></text:p>
+    <text:p text:style-name="P100"><text:span text:style-name="T10">≫ </text:span><text:span text:style-name="T112">Experience in applying </text:span><text:span text:style-name="T106">state-of-the-art analysis techniques: </text:span><text:span text:style-name="T126">MCMC, nested sampling, GPs</text:span></text:p>
+    <text:p text:style-name="P99"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T84">Trained </text:span><text:span text:style-name="T100">diffusion models</text:span><text:span text:style-name="T84"> for image generation</text:span></text:p>
+    <text:p text:style-name="P101"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T83">Small group teaching from </text:span><text:span text:style-name="T98">leading experts </text:span><text:span text:style-name="T83">in ML and statistics</text:span></text:p>
+    <text:p text:style-name="P102"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T83">S</text:span><text:span text:style-name="T89">eminar series from industry AI professionals; also </text:span><text:span text:style-name="T101">gave an invited talk </text:span><text:span text:style-name="T89">in this series</text:span></text:p>
+    <text:p text:style-name="P88"><text:span text:style-name="T89"/></text:p>
+    <text:p text:style-name="P77"><text:span text:style-name="T139">M</text:span><text:span text:style-name="T138">asters’ Project </text:span><text:span text:style-name="T140">&amp;</text:span><text:span text:style-name="T138"> Summer Internship<text:tab/>Cambridge, 2023</text:span></text:p>
+    <text:p text:style-name="P62"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T48">Secured over £3k of funding </text:span><text:span text:style-name="T30">to continue masters’ project on Venus-like exoplanets</text:span></text:p>
+    <text:p text:style-name="P62"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T31">Built Python wrappers</text:span><text:span text:style-name="T30"> </text:span><text:span text:style-name="T31">for Fortran code; simulating surface-atmosphere interactions</text:span></text:p>
+    <text:p text:style-name="P62"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T40">Invited talk at </text:span><text:span text:style-name="T35">MPIA’</text:span><text:span text:style-name="T36">s </text:span><text:span text:style-name="T54">ExoCoffee</text:span><text:span text:style-name="T36"> seminar</text:span></text:p>
+    <text:p text:style-name="P87"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T76">P</text:span><text:span text:style-name="T78">ublished in </text:span><text:span text:style-name="T63">Monthly Notices of the Royal Astronomical Society</text:span><text:span text:style-name="T78"> </text:span><text:span text:style-name="T101">(Byrne et al. 2024</text:span><text:span text:style-name="T102">a</text:span><text:span text:style-name="T103">)</text:span></text:p>
+    <text:p text:style-name="P89"><text:span text:style-name="T143"/></text:p>
+    <text:p text:style-name="P51"><text:span text:style-name="T142">Max Planck Institut f</text:span><text:span text:style-name="T144">ür Astronomie – </text:span><text:span text:style-name="T145">Summer Internship</text:span><text:span text:style-name="T141"><text:tab/></text:span><text:span text:style-name="T142">Heidelberg</text:span><text:span text:style-name="T141">, 20</text:span><text:span text:style-name="T142">22</text:span></text:p>
+    <text:p text:style-name="P83"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T90">D</text:span><text:span text:style-name="T86">iscovery of </text:span><text:span text:style-name="T87">three </text:span><text:span text:style-name="T86">high-redshift quasar</text:span><text:span text:style-name="T87">s</text:span><text:span text:style-name="T75">, </text:span><text:span text:style-name="T77">using </text:span><text:span text:style-name="T91">contrastive learning</text:span></text:p>
+    <text:p text:style-name="P52"><text:span text:style-name="T11">≫ </text:span><text:span text:style-name="T107">Developed </text:span><text:span text:style-name="T112">methodology</text:span><text:span text:style-name="T107"> to isolate </text:span><text:span text:style-name="T119">rare objects from a large dataset</text:span></text:p>
+    <text:p text:style-name="P52"><text:soft-page-break/><text:span text:style-name="T10">≫ </text:span><text:span text:style-name="T115">Im</text:span><text:span text:style-name="T107">plemented </text:span><text:span text:style-name="T106">cutting-edge</text:span><text:span text:style-name="T107"> ML technique</text:span><text:span text:style-name="T111">s</text:span><text:span text:style-name="T107"> in </text:span><text:span text:style-name="T137">tensorflow</text:span></text:p>
+    <text:p text:style-name="P84"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T78">Selected</text:span><text:span text:style-name="T75"> </text:span><text:span text:style-name="T66">method</text:span><text:span text:style-name="T72">s</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T78">ideal for</text:span><text:span text:style-name="T66"> </text:span><text:span text:style-name="T85">specific </text:span><text:span text:style-name="T89">science</text:span><text:span text:style-name="T85"> case</text:span><text:span text:style-name="T66">, optimising architecture</text:span><text:span text:style-name="T78">s</text:span></text:p>
+    <text:p text:style-name="P85"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T66">Ex</text:span><text:span text:style-name="T65">plored </text:span><text:span text:style-name="T78">a range of</text:span><text:span text:style-name="T65"> </text:span><text:span text:style-name="T92">unsupervised techniques </text:span><text:span text:style-name="T65">(e.g. VAEs, SOMs)</text:span></text:p>
+    <text:p text:style-name="P85"><text:span text:style-name="T6">≫ </text:span><text:span text:style-name="T73">Employed a range of </text:span><text:span text:style-name="T93">c</text:span><text:span text:style-name="T94">lustering algorithms </text:span><text:span text:style-name="T73">(e.g. GMMs, DBSCAN)</text:span></text:p>
+    <text:p text:style-name="P86"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T65">Presented </text:span><text:span text:style-name="T78">findings</text:span><text:span text:style-name="T65"> at </text:span><text:span text:style-name="T69">MPIA’</text:span><text:span text:style-name="T80">s s</text:span><text:span text:style-name="T65">eminar series </text:span><text:span text:style-name="T72">and </text:span><text:span text:style-name="T65">two </text:span><text:span text:style-name="T66">further </text:span><text:span text:style-name="T65">seminars in Cambridge</text:span></text:p>
+    <text:p text:style-name="P60"><text:span text:style-name="T10">≫ </text:span><text:span text:style-name="T107">P</text:span><text:span text:style-name="T108">ublished in </text:span><text:span text:style-name="T130">MNRAS </text:span><text:span text:style-name="T120">(Byrne et al., 2024</text:span><text:span text:style-name="T121">b</text:span><text:span text:style-name="T120">)</text:span></text:p>
+    <text:p text:style-name="P61"><text:span text:style-name="T10">≫</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T113">Publicised in </text:span><text:span text:style-name="T114">NSF </text:span><text:span text:style-name="T113">NOIRLab Stories’ </text:span><text:span text:style-name="T114">blog series</text:span></text:p>
+    <text:p text:style-name="P93"><text:span text:style-name="T77"/></text:p>
+    <text:p text:style-name="P44">Summer Schools &amp; Workshops</text:p>
+    <text:p text:style-name="P48"><text:span text:style-name="T158">STFC School on Data Intensive Science<text:tab/>Liverpool</text:span><text:span text:style-name="T159">, 202</text:span><text:span text:style-name="T158">4</text:span></text:p>
+    <text:p text:style-name="P57"><text:span text:style-name="T46">Workshops, lectures, discussions, and panels from industry data scientists</text:span></text:p>
+    <text:p text:style-name="P70"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T37">Workshop on </text:span><text:span text:style-name="T49">neural network emulators</text:span><text:span text:style-name="T37"> <text:s text:c="9"/></text:span><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T37">Introduction to </text:span><text:span text:style-name="T49">Apache Spark</text:span></text:p>
+    <text:p text:style-name="P69"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T37">Industry session: panel discussion <text:s text:c="20"/></text:span><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T37">Tutorial on </text:span><text:span text:style-name="T49">publishing code</text:span><text:span text:style-name="T37"> <text:s text:c="29"/></text:span></text:p>
+    <text:p text:style-name="P49"><text:span text:style-name="T161">MPIA Workshop Series</text:span><text:span text:style-name="T158"><text:tab/></text:span><text:span text:style-name="T161">Heidelberg, 2022</text:span></text:p>
+    <text:p text:style-name="P71"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T40">Intensive all-day workshops on </text:span><text:span text:style-name="T164">git</text:span><text:span text:style-name="T169">, </text:span><text:span text:style-name="T164">bash</text:span><text:span text:style-name="T169">, and Python</text:span></text:p>
+    <text:p text:style-name="P81"><text:span text:style-name="T37"/></text:p>
+    <text:p text:style-name="P46"><text:span text:style-name="T150">Other</text:span><text:span text:style-name="T149"> </text:span><text:span text:style-name="T146">Projects</text:span></text:p>
+    <text:p text:style-name="P50"><text:span text:style-name="T160">Supervising</text:span><text:span text:style-name="T159"><text:tab/>Cambridge, 2023-</text:span></text:p>
+    <text:p text:style-name="P63"><text:span text:style-name="T9">≫ </text:span><text:span text:style-name="T42">S</text:span><text:span text:style-name="T43">upervised 16 </text:span><text:span text:style-name="T44">thi</text:span><text:span text:style-name="T43">rd-year Astrophysics students in General Relativity and Stellar Dynamic</text:span><text:span text:style-name="T45">s</text:span></text:p>
+    <text:p text:style-name="P68"><text:span text:style-name="T47">C</text:span><text:span text:style-name="T46">ATAM Mathematics and Physics Projects</text:span></text:p>
+    <text:p text:style-name="P80">Computational <text:span text:style-name="T165">projects and reports investigating astrophysics-related themes</text:span></text:p>
+    <text:p text:style-name="P79"><text:span text:style-name="T14">≫ </text:span><text:span text:style-name="T153">R</text:span><text:span text:style-name="T154">an simulations of accretion disks, analysing trajectories of individual particles</text:span></text:p>
+    <text:p text:style-name="P78"><text:span text:style-name="T14">≫ </text:span><text:span text:style-name="T154">Numerical integrations for testing cosmological models</text:span></text:p>
+    <text:p text:style-name="P73">International Chemistry Olympiad<text:tab/>Paris, 2019</text:p>
+    <text:p text:style-name="P65"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T50">Represented the UK </text:span><text:span text:style-name="T28">in the nation’s four-person team </text:span><text:span text:style-name="T34">at</text:span><text:span text:style-name="T28"> </text:span><text:span text:style-name="T27">IChO 2019</text:span></text:p>
+    <text:p text:style-name="P65"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T33">Assimilated</text:span><text:span text:style-name="T27"> a </text:span><text:span text:style-name="T41">vast</text:span><text:span text:style-name="T27"> amount of knowledge in a </text:span><text:span text:style-name="T47">two-week</text:span><text:span text:style-name="T50"> timeframe</text:span></text:p>
+    <text:p text:style-name="P66"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T51">Ra</text:span><text:span text:style-name="T50">nked 41</text:span><text:span text:style-name="T148">st</text:span><text:span text:style-name="T50"> in the world</text:span><text:span text:style-name="T27">; </text:span><text:span text:style-name="T28">awarded silver medal </text:span><text:span text:style-name="T29">from the Monnaie de Paris</text:span></text:p>
+    <text:p text:style-name="P74"><text:span text:style-name="T167">Cosmic radiation: </text:span>HiSPARC Project &amp; Conference; EPQ <text:span text:style-name="T162"><text:tab/></text:span>Birmingham, 2018</text:p>
+    <text:p text:style-name="P75"><text:span text:style-name="T12">≫ </text:span><text:span text:style-name="T23">Constructed muon detectors to investigate sources of cosmic radiation</text:span></text:p>
+    <text:p text:style-name="P75"><text:span text:style-name="T12">≫ </text:span><text:span text:style-name="T55">Wrote webscrapers </text:span><text:span text:style-name="T23">and analysis software in </text:span><text:span text:style-name="T25">both </text:span><text:span text:style-name="T55">Python </text:span><text:span text:style-name="T56">and </text:span><text:span text:style-name="T55">MATLAB </text:span></text:p>
+    <text:p text:style-name="P75"><text:span text:style-name="T12">≫ </text:span><text:span text:style-name="T23">Triangulating source directions for </text:span><text:span text:style-name="T24">190 000 cosmic ray events</text:span></text:p>
+    <text:p text:style-name="P76"><text:span text:style-name="T12">≫ </text:span><text:span text:style-name="T24">Presented findings at HiSPARC conference; </text:span><text:span text:style-name="T57">received Gold award </text:span><text:span text:style-name="T24">for best presentation</text:span></text:p>
+    <text:p text:style-name="P76"><text:span text:style-name="T12">≫ </text:span><text:span text:style-name="T24">Report including literature review &amp; primary research</text:span></text:p>
+    <text:p text:style-name="P72"><text:span text:style-name="T24"/></text:p>
+    <text:p text:style-name="P74">VDI Sch<text:span text:style-name="T166">ü</text:span>lerforum<text:tab/>Frankfurt, 2016</text:p>
+    <text:p text:style-name="P67"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T39">Group research project on drone technology</text:span></text:p>
+    <text:p text:style-name="P67"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T39">Case study on transport of medicine to remote locations</text:span></text:p>
+    <text:p text:style-name="P67"><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T39">Presented project (partially in German) at Frankfurt University of Applied Sciences</text:span></text:p>
+    <text:p text:style-name="P82"><text:span text:style-name="T7"/></text:p>
+    <text:p text:style-name="P43">Languages</text:p>
+    <text:p text:style-name="P64"><text:span text:style-name="T7">≫</text:span><text:span text:style-name="T8"> </text:span><text:span text:style-name="T80">English (native) <text:s text:c="12"/></text:span><text:span text:style-name="T7">≫</text:span><text:span text:style-name="T71"> </text:span><text:span text:style-name="T76">German, French (conversational) <text:s text:c="12"/></text:span><text:span text:style-name="T7">≫ </text:span><text:span text:style-name="T76">Mandarin, Italian (basic)</text:span></text:p>
+   </text:section>
+  </office:text>
+ </office:body>
+</office:document>
