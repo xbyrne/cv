@@ -1,7 +1,7 @@
 \documentclass[a4paper,10pt]{article}
 \usepackage[a4paper,margin=1in]{geometry}
 \usepackage{lmodern} % Latin Modern font for pdfLaTeX
-\usepackage[T1]{fontenc} % Improved font encoding
+\usepackage{fontspec} % Improved font encoding
 \usepackage{xcolor}
 \usepackage{enumitem}
 \usepackage{titlesec}
@@ -11,6 +11,7 @@
     citecolor=highlight,
     urlcolor=highlight
 ]{hyperref}
+\usepackage{fontawesome5}
 
 % Font and color settings
 \renewcommand{\familydefault}{\sfdefault} % Set main font to sans-serif
@@ -39,7 +40,7 @@
     Cambridge, UK
 }
 \def\orcid{
-    0000-0001-9488-238X
+    \href{https://orcid.org/0000-0001-9488-238X}{0000-0001-9488-238X}
 }
 
 \begin{document}
@@ -48,7 +49,7 @@
 \noindent
 \begin{minipage}[t]{0.73\textwidth}
     \vspace{1.2ex} % Adjust spacing as necessary
-    {\fontsize{50}{60}\selectfont \textbf{\name}}\\[0.3em]
+    {\fontsize{50}{55}\selectfont \textbf{\name}}\\[0.3em]
     {\fontsize{20.5}{30}\textit{\position}}
 \end{minipage}
 {\color{highlight}\vrule width 1.5pt}
@@ -56,10 +57,10 @@
 \raggedleft
 {\fontsize{11}{12}\selectfont
 \vspace{.3em}
-\address \\[.3em]
-    \email \\[.1em]
-    \website \\[.3em]
-    \orcid
+    \address \faMapMarker* \\[.3em]
+    \email \faEnvelope[regular] \\[.1em]
+    \website \faGithub \\[.3em]
+    \orcid \faOrcid
 }
 \end{minipage}
 
@@ -110,7 +111,7 @@ Graduated 1st class with distinction.
     \hfill University of Cambridge\\
     Awarded for the best performance in the Natural Sciences (Astrophysics) examinations.
     \item \textbf{John Spencer Wilson Prize} (£500) \hfill St Catharine's College, Cambridge\\
-    Awarded in recognition of exceptional performance in the Natural Sciences examinations.
+    Awarded in recognitio-n of exceptional performance in the Natural Sciences examinations.
 \end{itemize}
 
 % Section: Telescope Time
