@@ -19,6 +19,9 @@
 
 \pagestyle{empty}
 
+% Commands
+\input{commands}
+
 % Define section format
 \titleformat{\section}{\Large\bfseries\color{highlight}}{}{}{}[\titlerule]
 \titleformat{\subsection}[runin]{\bfseries}{}{0em}{}[:]
@@ -73,8 +76,8 @@ $\bullet$ Polluted white dwarfs
 \hspace{1.5em}
 $\bullet$ Data science \& machine learning
 
-% Section: Education
 \section*{Education}
+
 \textbf{Ph.D. in Astronomy}, Institute of Astronomy, University of Cambridge \hfill 2023---\\
 Dissertation: \textit{Big-data insights into the white dwarf population}.\\
 Supervisor: Dr Amy Bonsor\\
@@ -82,10 +85,12 @@ Supervisor: Dr Amy Bonsor\\
 \noindent \textbf{M.Sci in Natural Sciences (Astrophysics)}, University of Cambridge \hfill 2019--23 \\
 Graduated 1st class with distinction.
 
-% Section: Publications
+
+
 \section*{Publications}
 
 \begin{itemize}
+<<<<<<< Updated upstream:academic/cv.tex
     \item \textbf{X.~Byrne}, A.~Bonsor, L.~K.~Rogers et al. (2025).
     \textit{Finding rare classes in large datasets: the case of polluted white dwarfs from \textit{Gaia} XP spectra}. RASTI%, in press.
     %\href{https://doi.org/XX.XXXX/rasit/YYYYZZZZ}{doi:XX.XXXX/rasti/YYYYZZZZ}
@@ -101,10 +106,46 @@ Graduated 1st class with distinction.
     \textit{Atmospheres as a Window to Rocky Exoplanet Surfaces}.
     MNRAS, 527(4), 10748-10759.
     \href{https://doi.org/10.1093/mnras/stad3914}{doi:10.1093/mnras/stad3914}.
+=======
+\paper{\textbf{X.~Byrne}, A.~Bonsor, L.~K.~Rogers et al.}{2025}{
+    Finding rare classes in large datasets: the case of polluted white dwarfs from \textit{Gaia} XP spectra
+}{RASTI, 4}{10.1093/rasti/rzaf044}
+
+\paper{\textbf{X.~Byrne}, A.~Bonsor, L.~K.~Rogers et al.}{2024}{ 
+    Semi-supervised spectral classification of DESI white dwarfs by dimensionality reduction
+}{MNRAS, 535(3), 2246-2259}{10.1093/mnras/stae2478}
+
+\paper{\textbf{X.~Byrne}, R.~A.~Meyer, E.~P.~Farina, et al.}{2024}{
+    Quasar Island - three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning
+}{MNRAS, 530(1), 870-880}{\\10.1093/mnras/stae902}
+
+\paper{\textbf{X.~Byrne}, O.~Shorttle, S.~Jordan et al.}{2024}{
+    Atmospheres as a Window to Rocky Exoplanet Surfaces
+}{MNRAS, 527(4), 10748-10759}{doi:10.1093/mnras/stad3914}.
+>>>>>>> Stashed changes:academic/main.tex
 \end{itemize}
 
-% Section: Awards and Honors
-\section*{Awards, Grants etc.}
+
+
+\section*{Awarded Telescope Time}
+% \subsection*{As PI}
+
+\subsection*{As Co-I}
+
+\begin{itemize}
+    \item \textit{White dwarfs as a means to probe core formation in exoplanetary systems}; PI Rogers\\
+    65h VLT/X-Shooter spectroscopy (115.28F4)
+    
+    \item \textit{Characterising a $z\sim6$ gravitationally-lensed BAL quasar candidate}; PI Meyer\\
+    2.9h VLT/X-Shooter spectroscopy (113.26CY)
+    
+    \item \textit{Measuring the mass of the SMBHs powering two lensed $z\sim6$ quasars}; PI Meyer\\
+    4.23h Gemini (DDT) FLAMINGOS-2 spectroscopy (DT-2022B-029)
+\end{itemize}
+
+
+
+\section*{Grants, Awards \& Prizes}
 \begin{itemize}
     \item \textbf{MASt/Part III Bursary} (£3500) \hfill Institute of Astronomy\\
     Funding the conversion of my Masters' thesis to a published paper over the course of a summer internship.
@@ -117,57 +158,27 @@ Graduated 1st class with distinction.
     Awarded in recognition of exceptional performance in the Natural Sciences examinations.
 \end{itemize}
 
-% Section: Telescope Time
-
-\section*{Awarded Telescope Time}
-% \subsection*{As PI}
-
-\subsection*{As Co-I}
-
-\begin{itemize}
-    \item \textit{White dwarfs as a means to probe core formation in exoplanetary systems}; PI Rogers\\
-    65h VLT/X-Shooter spectroscopy (115.28F4)
-    \item \textit{Characterising a $z\sim6$ gravitationally-lensed BAL quasar candidate}; PI Meyer\\
-    2.9h VLT/X-Shooter spectroscopy (113.26CY)
-    \item \textit{Measuring the mass of the SMBHs powering two lensed $z\sim6$ quasars}; PI Meyer\\
-    4.23h Gemini (DDT) FLAMINGOS-2 spectroscopy (DT-2022B-029)
-\end{itemize}
 
 
-% Section: Skills
-\section*{Technical Experience}
-\begin{itemize}
-    \item \textbf{Programming Languages:} Python, C++, MATLAB
-    \item \textbf{Astronomy Software:} EsoRex, EsoReflex, DS9, TOPCAT, PyTorch, TensorFlow
-\end{itemize}
 
-% Section: Teaching Experience
-\section*{Teaching}
-\noindent \textbf{Supervisor}, Part II Astrophysics, University of Cambridge \hfill 2023---
-\begin{itemize}
-    \item Conducted small-group teaching, marking solutions 
-    \begin{itemize}
-        \item \textit{Relativity} (GR): 8 students
-        \item \textit{Stellar Dynamics \& Structure of Galaxies} (orbits \& potentials): 8 students
-    \end{itemize}
-    \item Produced popular revision notes ($\sim2500$ hits per year)
-\end{itemize}
-
-% Section: Talks
 \section*{Talks}
 
 \subsection{Invited Talks}
 
 \begin{itemize}
 \vspace{1ex}
-\item \textbf{ExoCoffee -- MPIA, Heidelberg} \hfill Feb 2024\\
-\textit{Atmospheres as a Window to Rocky Planet Surfaces}
+\cvevent{White Dwarf Meeting -- University of Warwick}{Feb 2025}{
+    \textit{Big-Data Methods for Polluted WDs -- Past, Present and Future}
+}
 
-\item \textbf{Data Intensive Science Seminar Series -- Maxwell Centre, Cambridge} \hfill Feb 2024\\
-\textit{Contrastive Learning and High-Redshift Quasars}
+\cvevent{ExoCoffee -- MPIA, Heidelberg}{Feb 2024}{
+    \textit{Atmospheres as a Window to Rocky Planet Surfaces}
+}
 
-\item \textbf{Physics Evening -- St Catharine's College, Cambridge} \hfill May 2023\\
-\textit{Worlds Anew: Exoplanets and their Characterisation}
+\cvevent{Data Intensive Science Seminar Series -- Maxwell Centre, Cambridge}{Feb 2024}{
+    \textit{Contrastive Learning and High-Redshift Quasars}
+}
+
 \end{itemize}
 
 \subsection{Contributed Talks}
@@ -175,57 +186,128 @@ Graduated 1st class with distinction.
 \begin{itemize}
 \vspace{1ex}
 
-\item \textbf{Wednesday Seminar Series -- Institute of Astronomy, Cambridge} \hfill Oct 2024\\
-\textit{Spectral Classification of White Dwarfs by Dimensionality Reduction}
+\cvevent{Wednesday Seminar Series -- Institute of Astronomy, Cambridge}{Oct 2024}{
+    \textit{Spectral Classification of White Dwarfs by Dimensionality Reduction}
+}
 
-\item \textbf{Astro Data Science Discussion Group -- KICC, Cambridge} \hfill Jan 2024\\
-\textit{Contrastive Learning and High-Redshift Quasars}
+\cvevent{Astro Data Science Discussion Group -- KICC, Cambridge}{Jan 2024}{
+    \textit{Contrastive Learning and High-Redshift Quasars}
+}
 
-\item \textbf{Galaxy Coffee -- MPIA, Heidelberg} \hfill Sep 2022\\
-\textit{Searching for Gravitationally-Lensed High-Redshift Quasars with Unsupervised Machine Learning}
-
+\cvevent{Galaxy Coffee -- MPIA, Heidelberg}{Sep 2022}{
+    \textit{Searching for Gravitationally-Lensed High-Redshift Quasars with Unsupervised Machine Learning}
+}
 \end{itemize}
+
+
+
+\section*{Technical Experience}
+
+\begin{itemize}
+    \item \textbf{Programming Languages:} Python, C++, MATLAB
+    
+    \item \textbf{Astronomy Software:} EsoRex, EsoReflex, DS9, TOPCAT, PyTorch, TensorFlow
+
+    \item \textbf{Datasets:} Gaia, DESI, SDSS, GALAH
+\end{itemize}
+
+
 
 \section*{Professional Service}
 
+\subsection{Conferences \& Seminars}
+
 \begin{itemize}
-\item \textbf{Organiser, Wednesday Seminar Series}
-\hfill 2024---\\
-A long-running seminar series given by PhD students and postdocs at the Institute of Astronomy.
-\item \textbf{Organiser, PhD/Postdoc Jamboree}
-\hfill Oct 2024\\
-A social `introduction' event for the Institute's PhDs and postdocs.
-\item \textbf{Tech Assistant, \textit{IoA50} conference}
-\hfill Jul 2024\\
-Assisting speakers at a large conference with presentations, mics etc.
-\item \textbf{Organiser, Undergraduate Journal Club} \hfill 2023--24\\
-A journal club for undergraduates, also offering career advice.
+\cvevent{Organiser, UK White Dwarf Science Meeting}{Mar 2026}{
+    Coordinating invitations, payments, scheduling, and talks for a national one-day meeting.
+}
+
+\cvevent{Organiser, Wednesday Seminar Series}{2024---}{
+    A long-running seminar series given by PhD students and postdocs at the Institute of Astronomy.
+}
+
+\cvevent{Organiser, PhD/Postdoc Jamboree}{2024---}{
+    A social `introduction' event for the Institute's PhDs and postdocs.
+}
+
+\cvevent{Tech Assistant, \textit{IoA50} conference}{Jul 2024}{
+    Assisting speakers at a large conference with presentations, mics etc.
+}
 \end{itemize}
+
+
+\subsection{Other}
+
+\begin{itemize}
+\cvevent{Co-chair, LGBTQ+ Focus Group, Institute of Astronomy}{2025--26}{
+    Organising departmental events.
+}
+
+\cvevent{Organiser, Undergraduate Journal Club}{2023--24}{
+    A journal club for undergraduates, also offering career advice.
+}
+\end{itemize}
+
+
+\section*{Teaching}
+
+\noindent \textbf{Supervisor}, Part II Astrophysics, University of Cambridge \hfill 2023---
+\begin{itemize}
+    \item Conducted small-group teaching, marking solutions 
+    \begin{itemize}
+        \item \textit{Relativity} (GR): 18 students
+        \item \textit{Stellar Dynamics \& Structure of Galaxies} (orbits \& potentials): 8 students
+    \end{itemize}
+    \item Produced popular revision notes ($\sim2500$ hits per year)
+\end{itemize}
+
 
 \section*{Outreach}
 
 \begin{itemize}
+<<<<<<< Updated upstream:academic/cv.tex
     \item \textbf{\textit{The Naked Scientists}, BBC Radio 5 Live}
     \hfill Mar 2023---\\
     National radio show and podcast. Numerous appearances both live and in pre-recorded segments
     \item \textbf{Public Open Evenings, Institute of Astronomy}
     \hfill 2022---\\
+=======
+\cvevent{\textit{The Naked Scientists}, BBC Radio 5 Live}{Mar 2023---}{
+    National radio show and podcast. Numerous appearances both live and in pre-recorded segments
+}
+
+\cvevent{IoA+KICC Open Day}{2024--}{
+    Organising and running activities, talks, and demonstrations for the general public.
+}
+
+\cvevent{Public Open Evenings, Institute of Astronomy}{2022---}{
+>>>>>>> Stashed changes:academic/main.tex
     Visits for the general public, involving a public lecture and stargazing.
-    \item \textbf{Cambridge Hands-On Science (CHaOS) event: \textit{Crash Bang Squelch}}
-    \hfill Mar 2024\\
+}
+
+\cvevent{Asdan Summer School, St Catharine's College, Cambridge}{Aug 2025}{
+    Outreach talk: \textit{Worlds Anew: Exoplanetary Astronomy}
+}
+
+\cvevent{Cambridge Hands-On Science (CHaOS) event: \textit{Crash Bang Squelch}}{Mar 2024}{
     Outreach talk: \textit{How to find an Alien Planet}
-    \item \textbf{Birmingham Schools Science Network}
-    \hfill Sep 2023\\
+}
+
+\cvevent{Birmingham Schools Science Network}{Sep 2023}{
     Outreach talk: \textit{Worlds Anew: Quasars, Exoplanets, and the Search for Life}.
-    \item \textbf{HiSPARC Project}
-    \hfill 2018--22\\
+}
+
+\cvevent{HiSPARC Project}{2018--22}{
     Teaching sessions and sparking research projects for high-school physics students, particularly girls
-    \item \textbf{\textit{Varsity Sci 2021}}
-    \hfill Oct 2021\\
+}
+
+\cvevent{\textit{Varsity Sci 2021}}{Oct 2021}{
     Outreach talk: \textit{The Messier Catalogue: 110 objects in 10 minutes}.
-    \item \textbf{Cambridge University Physics Society}
-    \hfill Aug 2020\\
+}
+
+\cvevent{Cambridge University Physics Society}{Aug 2020}{
     Outreach talk: \textit{Negative mass: matter that's lighter than light}.
+}
 \end{itemize}
 
 \section*{Press Coverage}

@@ -1,0 +1,30 @@
+% ========
+% Commands
+% ========
+
+% ========
+% \cvevent
+% Usage:
+% #1: Title
+% #2: Date
+% #3: Information
+
+\newcommand{\cvevent}[3]{
+    \item \textbf{#1} \hfill #2\\
+    {#3}
+}
+
+% ======
+% \paper
+% Usage:
+% #1: Authors (remember to bold myself!)
+% #2: Year
+% #3: Title
+% #4: Journal reference (e.g. MNRAS, 535(3), 2246-2259)
+% #5: DOI (e.g. 10.1093/rasti/rzaf044)
+
+
+\newcommand{\paper}[5]{
+    \item #1 (#2). \textit{#3}. #4.
+    \href{https://doi.org/#5}{doi:#5}
+}
