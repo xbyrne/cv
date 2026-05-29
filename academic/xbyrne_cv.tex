@@ -1,0 +1,297 @@
+\documentclass[a4paper,10pt]{article}
+\usepackage[a4paper,margin=1.0in]{geometry}
+\usepackage{lmodern} % Latin Modern font for pdfLaTeX
+% \usepackage{fontspec} % Improved font encoding
+\usepackage{xcolor}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage[
+  colorlinks=true,
+  linkcolor=highlight,
+  citecolor=highlight,
+  urlcolor=highlight
+]{hyperref}
+\usepackage{fontawesome5} % Icons for contact details
+
+% Font and color settings
+\renewcommand{\familydefault}{\sfdefault} % Set main font to sans-serif
+\definecolor{highlight}{HTML}{4b3069} % Purple highlight color
+
+\pagestyle{empty}
+
+% Commands
+\input{commands}
+
+% Define section format
+\titleformat{\section}{\Large\bfseries\color{highlight}}{}{}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries}{}{0em}{}[:]
+
+% Customize itemize spacing
+\setlist[itemize]{noitemsep, topsep=0pt}
+
+% Header
+\def\name{Xander Byrne}
+\def\position{Astrophysics PhD Student}
+\def\email{
+  \href{mailto:xbyrne@ast.cam.ac.uk}{xbyrne@ast.cam.ac.uk}
+}
+\def\website{
+  \href{https://xbyrne.github.io}{xbyrne.github.io}
+}
+\def\address{
+  Institute of Astronomy,
+  Cambridge, UK
+}
+\def\orcid{
+  \href{https://orcid.org/0000-0001-9488-238X}{0000-0001-9488-238X}
+}
+
+\begin{document}
+
+% Top header
+\noindent
+\begin{minipage}[t]{0.73\textwidth}
+  \vspace{1.2ex} % Adjust spacing as necessary
+  {\fontsize{50}{55}\selectfont \textbf{\name}}\\[0.3em]
+  {\fontsize{20.5}{30}\textit{\position}}
+\end{minipage}
+{\color{highlight}\vrule width 1.5pt}
+\begin{minipage}[t]{0.27\textwidth}
+  \raggedleft
+  {\fontsize{11}{12}\selectfont
+    \vspace{.3em}
+    \address \faMapMarker* \\[.3em]
+    \email \faEnvelope[regular] \\[.1em]
+    \website \faGithub \\[.3em]
+    \orcid \faOrcid
+  }
+\end{minipage}
+
+% Section: Research Interests
+\section*{Research Interests}
+$\bullet$ Exoplanet composition and habitability
+\hspace{1.5em}
+$\bullet$ Polluted white dwarfs
+\hspace{1.5em}
+$\bullet$ Data science \& machine learning
+
+\section*{Education}
+
+\textbf{Ph.D. in Astronomy}, Institute of Astronomy, University of Cambridge \hfill 2023---\\
+Dissertation: \textit{Clues to exoplanet composition from stellar spectra}.\\
+Supervisor: Dr Amy Bonsor\\
+
+\noindent \textbf{M.Sci in Natural Sciences (Astrophysics)}, University of Cambridge \hfill 2019--23 \\
+Graduated 1st class with distinction.
+
+\section*{Publications}
+
+\begin{itemize}
+    \paper{\textbf{X.~Byrne}, A.~Bonsor, L.~K.~Rogers et al.}{2025}{
+      Finding rare classes in large datasets: the case of polluted white dwarfs from \textit{Gaia} XP spectra
+    }{RASTI, 4}{10.1093/rasti/rzaf044}
+
+    \paper{\textbf{X.~Byrne}, A.~Bonsor, L.~K.~Rogers et al.}{2024}{
+      Semi-supervised spectral classification of DESI white dwarfs by dimensionality reduction
+    }{MNRAS, 535(3), 2246-2259}{10.1093/mnras/stae2478}
+
+    \paper{\textbf{X.~Byrne}, R.~A.~Meyer, E.~P.~Farina, et al.}{2024}{
+      Quasar Island - three new $z\sim6$ quasars, including a lensed candidate, identified with contrastive learning
+    }{MNRAS, 530(1), 870-880}{\\10.1093/mnras/stae902}
+
+    \paper{\textbf{X.~Byrne}, O.~Shorttle, S.~Jordan et al.}{2024}{
+      Atmospheres as a Window to Rocky Exoplanet Surfaces
+    }{MNRAS, 527(4), 10748-10759}{doi:10.1093/mnras/stad3914}.
+\end{itemize}
+
+\section*{Awarded Telescope Time}
+% \subsection*{As PI}
+
+\subsection*{As Co-I}
+
+\begin{itemize}
+  \item \textit{White dwarfs as a means to probe core formation in exoplanetary systems}; PI Rogers\\
+    65h VLT/X-Shooter spectroscopy (115.28F4)
+
+  \item \textit{Characterising a $z\sim6$ gravitationally-lensed BAL quasar candidate}; PI Meyer\\
+    2.9h VLT/X-Shooter spectroscopy (113.26CY)
+
+  \item \textit{Measuring the mass of the SMBHs powering two lensed $z\sim6$ quasars}; PI Meyer\\
+    4.23h Gemini (DDT) FLAMINGOS-2 spectroscopy (DT-2022B-029)
+\end{itemize}
+
+\section*{Grants, Awards \& Prizes}
+\begin{itemize}
+  \item \textbf{MASt/Part III Bursary} (£3500) \hfill Institute of Astronomy\\
+    Funding the conversion of my Masters' thesis to a published paper over the course of a summer internship.
+  \item \textbf{MPIA Summer Internship} (€3750) \hfill Max-Planck-Institut f\"{u}r Astronomie\\
+    Funding a summer internship: \textit{Searching for Lensed High-Redshift Quasars using Unsupervised Machine Learning}.
+  \item \textbf{Winifred Georgia Holgate-Pollard Memorial Prize} (£1650)
+    \hfill University of Cambridge\\
+    Awarded for the best performance in the Natural Sciences (Astrophysics) examinations.
+  \item \textbf{John Spencer Wilson Prize} (£500) \hfill St Catharine's College, Cambridge\\
+    Awarded in recognition of exceptional performance in the Natural Sciences examinations.
+\end{itemize}
+
+\section*{Talks}
+
+\subsection{Invited Talks}
+
+\begin{itemize}
+    \vspace{1ex}
+    \cvevent{White Dwarf Meeting -- University of Warwick}{Feb 2026}{
+      \textit{Big-Data Methods for Polluted WDs -- Past, Present and Future}
+    }
+
+    \cvevent{ExoCoffee -- MPIA, Heidelberg}{Feb 2024}{
+      \textit{Atmospheres as a Window to Rocky Planet Surfaces}
+    }
+
+    \cvevent{Data Intensive Science Seminar Series -- Maxwell Centre, Cambridge}{Feb 2024}{
+      \textit{Contrastive Learning and High-Redshift Quasars}
+    }
+
+\end{itemize}
+
+\subsection{Contributed Talks}
+
+\begin{itemize}
+    \vspace{1ex}
+
+    \cvevent{UK White Dwarf Science Meeting -- Queens' College, Cambridge}
+    {Mar 2026}{
+      \textit{Calcium Needles in Hydrogen Haystacks -- Identifying polluted white dwarfs with \textit{Gaia}}
+    }
+
+    \cvevent{Wednesday Seminar Series -- Institute of Astronomy, Cambridge}{Oct 2024}{
+      \textit{Spectral Classification of White Dwarfs by Dimensionality Reduction}
+    }
+
+    \cvevent{Astro Data Science Discussion Group -- KICC, Cambridge}{Jan 2024}{
+      \textit{Contrastive Learning and High-Redshift Quasars}
+    }
+
+    \cvevent{Galaxy Coffee -- MPIA, Heidelberg}{Sep 2022}{
+      \textit{Searching for Gravitationally-Lensed High-Redshift Quasars with Unsupervised Machine Learning}
+    }
+\end{itemize}
+
+\section*{Professional Service}
+
+\subsection{Conferences \& Seminars}
+
+\begin{itemize}
+    \cvevent{Organiser, UK White Dwarf Science Meeting}{Mar 2026}{
+      Coordinating invitations, payments, scheduling, and talks for a national one-day meeting.
+    }
+
+    \cvevent{Organiser, Wednesday Seminar Series}{2024---}{
+      A long-running seminar series given by PhD students and postdocs at the Institute of Astronomy.
+    }
+
+    \cvevent{Organiser, PhD/Postdoc Jamboree}{2024---}{
+      A social `introduction' event for the Institute's PhDs and postdocs.
+    }
+
+    \cvevent{Tech Assistant, \textit{IoA50} conference}{Jul 2024}{
+      Assisting speakers at a large conference with presentations, mics etc.
+    }
+\end{itemize}
+
+\subsection{Other}
+
+\begin{itemize}
+    \cvevent{Co-chair, LGBTQ+ Focus Group, Institute of Astronomy}{2025--26}{
+      Organising departmental events.
+    }
+
+    \cvevent{Organiser, Undergraduate Journal Club}{2023--24}{
+      A journal club for undergraduates, also offering career advice.
+    }
+\end{itemize}
+
+\section*{Miscellaneous Experience}
+
+\subsection{Technical Experience}
+
+\begin{itemize}
+  \item \textbf{Programming Languages:} Python, C++, MATLAB
+
+  \item \textbf{Astronomy Software:} EsoRex, EsoReflex, DS9, TOPCAT, PyTorch, TensorFlow
+
+  \item \textbf{Development:} Primary developer and maintainer of the open-source \href{https://github.com/xbyrne/cinemas}{\texttt{cinemas} package}
+
+  \item \textbf{Datasets:} Gaia, DESI, SDSS, GALAH
+\end{itemize}
+
+\subsection{Industry Experience}
+
+\begin{itemize}
+    \cvevent{Internship at \href{https://www.featurespace.com}{Featurespace}}{Feb--Aug 2025}{
+      6-month placement in the R\&D division of a tech company.
+      Implemented and tested state-of-the-art innovations in AI research into the company's extensive codebase.
+    }
+\end{itemize}
+
+\pagebreak
+
+\section*{Teaching}
+
+\noindent \textbf{Supervisor}, Part II Astrophysics, University of Cambridge \hfill 2023---
+\begin{itemize}
+  \item Conducted small-group teaching, marking solutions
+    \begin{itemize}
+      \item \textit{Relativity} (GR): 18 students
+      \item \textit{Stellar Dynamics \& Structure of Galaxies} (orbits \& potentials): 8 students
+    \end{itemize}
+  \item Produced \href{https://xbyrne.github.io/notes}{popular revision notes} ($\sim2500$ hits per year)
+\end{itemize}
+
+\section*{Outreach}
+
+\begin{itemize}
+    \cvevent{IoA+KICC Open Day}{2024---}{
+      Organising and running activities, talks, and demonstrations for the general public.
+    }
+
+    \cvevent{\textit{The Naked Scientists}, BBC Radio 5 Live}{Mar 2023---}{
+      National radio show and podcast. Numerous appearances both live and in pre-recorded segments
+    }
+
+    \cvevent{Public Open Evenings, Institute of Astronomy}{2022---}{
+      Visits for the general public, involving a public lecture (which I gave in \href{https://www.youtube.com/watch?v=sq6PVKXRj4s}{2025} and \href{https://www.youtube.com/watch?v=fqoo_07Zfsg}{2026}) and stargazing.
+    }
+
+    \cvevent{Asdan Summer School, St Catharine's College, Cambridge}{Aug 2025}{
+      Outreach talk: \textit{Worlds Anew: Exoplanetary Astronomy}
+    }
+
+    \cvevent{Cambridge Hands-On Science (CHaOS) event: \textit{Crash Bang Squelch}}{Mar 2024}{
+      Outreach talk: \textit{How to find an Alien Planet}
+    }
+
+    \cvevent{Birmingham Schools Science Network}{Sep 2023}{
+      Outreach talk: \href{https://www.youtube.com/watch?v=J-r3r0u_INQ}{\textit{Worlds Anew: Quasars, Exoplanets, and the Search for Life}}.
+    }
+
+    \cvevent{HiSPARC Project}{2018--22}{
+      Teaching sessions and sparking research projects for high-school physics students, particularly girls
+    }
+
+    \cvevent{\textit{Varsity Sci 2021}}{Oct 2021}{
+      Outreach talk: \href{https://www.youtube.com/live/_3y9bzUpaeY?si=sBWpn4ZTFP_lCF9S&t=3638}{\textit{The Messier Catalogue: 110 objects in 10 minutes}}.
+    }
+
+    \cvevent{Cambridge University Physics Society}{Aug 2020}{
+      Outreach talk: \href{https://youtu.be/ovptNIUAtto?si=m9zADxlmFnNeBend}{\textit{Negative mass: matter that's lighter than light}}.
+    }
+\end{itemize}
+
+\section*{Press Coverage}
+
+\begin{itemize}
+  \item \textbf{NOIRLab Stories Blog}: \href{https://noirlab.edu/public/blog/cosmic-gems/}{\textit{AI Aids in Search for Cosmic Gems in Ocean of Data}}
+    \hfill Jul 2024
+\end{itemize}
+
+\end{document}
